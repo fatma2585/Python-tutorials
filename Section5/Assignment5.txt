@@ -1,5 +1,0 @@
-Q1) Using the Finalstar file randomly select 10 stars, and make a bar chart for the most distant 5 stars  (5 marks)
-
-Q2) plot the sin and cos functions.  mark the phase difference with a dashed line, then plot the two functions in two subplots.
-Extract your figures 
-Hint: use the sin and cos functions in numpy np.sin, np.cos (5 marks)
