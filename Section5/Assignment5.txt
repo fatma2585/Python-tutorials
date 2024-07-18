@@ -1,0 +1,7 @@
+Q1) Calculate the Luminosity for the matched table with Chandra X-rays mission, 
+Plot between Luminosity and redshift, 
+Comment on the graph (the evolution of quasars luminosity)
+
+Hint: Not all fluxes have the same unit check your table flux unit metadata, and check their conversion on the Astropy website.   
+
+Q2/ Save your fits table with (Name, RA, DEC, Z, L)
