@@ -1,4 +1,4 @@
-# Python-tutorials
+# Python tutorials for Astronomy 
 
 [![Made with NumPy](https://img.shields.io/badge/Made%20with-NumPy-blue.svg)](https://numpy.org/)
 [![Made with pandas](https://img.shields.io/badge/Made%20with-pandas-purple.svg)](https://pandas.pydata.org/)
