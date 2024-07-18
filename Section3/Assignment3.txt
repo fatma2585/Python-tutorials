@@ -1,0 +1,7 @@
+Q1) Write a function that calculates the escape velocity of our moon if it orbits around the  (sun, Jupiter, and M87), the orbital radius = the orbital radius between the moon and the earth.
+
+Q2) Make a class of stars, in this class make a function that classifies stars according to their temperature [O-B-A-F-G-K-M], based on the given temperature of the user.
+https://en.wikipedia.org/wiki/Stellar_classification.
+
+
+Comment in your results on the notebook as a mark down the cell.
