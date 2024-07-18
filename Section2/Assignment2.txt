@@ -1,0 +1,22 @@
+Q1) Write a function that converts input light-years into
+meters.       ( 4 marks )
+
+
+Q2) Find the errors in the following example and correct them then write
+the output:   ( 6 marks )
+(Hint: each example may have more than one error)
+
+
+1. Z= [ 335.35, "a335", "Python", [1,2,4], 455, Islam]
+     L= int(Z[1])
+     B= float(Z[3])                                           
+
+
+2. Student1={name = Ali}
+Student1[graduation]=2024
+print(Student1)
+
+
+3. Python=[1,2,3,4,5,6,7,8,9]
+Python. insert(101)
+Print(Python
