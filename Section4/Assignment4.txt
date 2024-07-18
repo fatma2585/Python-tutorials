@@ -1,0 +1,5 @@
+Use the attached (starFinal.csv) file for the following questions:
+
+ Q1\ Calculate the distance modulus (using m, M) and the temperature of the stars using their color index b-v for this list of stars.
+
+Q2\what is the farthest and the closest star to us?
